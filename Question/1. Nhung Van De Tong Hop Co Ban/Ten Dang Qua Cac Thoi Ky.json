@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "question": "Tại Hội nghị thành lập Đảng (tháng 2/1930), Đảng ta có tên gọi là gì?",
+    "options": {
+      "a": "Đảng Cộng sản Đông Dương",
+      "b": "Đảng Lao động Việt Nam",
+      "c": "Đảng Nhân dân Cách mạng Việt Nam",
+      "d": "Đảng Cộng sản Việt Nam"
+    },
+    "answer": "d",
+    "explanation": "Tại Hội nghị thành lập Đảng tháng 2/1930, Đảng ta có tên gọi là Đảng Cộng sản Việt Nam."
+  },
+  {
+    "id": 2,
+    "question": "Tại Hội nghị Trung ương lần thứ nhất (tháng 10/1930), Đảng ta đổi tên thành gì?",
+    "options": {
+      "a": "Đảng Cộng sản Đông Dương",
+      "b": "Đảng Cộng sản Việt Nam",
+      "c": "Đảng Lao động Việt Nam",
+      "d": "Hội Việt Nam Cách mạng Thanh niên"
+    },
+    "answer": "a",
+    "explanation": "Tại Hội nghị Trung ương lần thứ nhất (tháng 10/1930), Đảng ta đổi tên thành Đảng Cộng sản Đông Dương."
+  },
+  {
+    "id": 3,
+    "question": "Tại Đại hội II của Đảng (tháng 2/1951), Đảng ta quyết định lấy tên là gì?",
+    "options": {
+      "a": "Đảng Cộng sản Đông Dương",
+      "b": "Đảng Lao động Việt Nam",
+      "c": "Đảng Cộng sản Việt Nam",
+      "d": "Đảng Dân chủ Việt Nam"
+    },
+    "answer": "b",
+    "explanation": "Tại Đại hội II của Đảng (tháng 2/1951), Đảng ta quyết định lấy tên là Đảng Lao động Việt Nam."
+  },
+  {
+    "id": 4,
+    "question": "Tên gọi \"Đảng Cộng sản Việt Nam\" được chính thức sử dụng lại và giữ nguyên đến nay từ kỳ Đại hội nào?",
+    "options": {
+      "a": "Đại hội III (1960)",
+      "b": "Đại hội IV (12/1976)",
+      "c": "Đại hội V (1982)",
+      "d": "Đại hội VI (1986)"
+    },
+    "answer": "b",
+    "explanation": "Tên gọi \"Đảng Cộng sản Việt Nam\" được chính thức sử dụng lại và giữ nguyên đến nay từ Đại hội IV (12/1976)."
+  },
+  {
+    "id": 76,
+    "question": "Tên gọi \"Đảng Cộng sản Việt Nam\" được đặt lần đầu tiên tại hội nghị nào?",
+    "options": {
+      "a": "Hội nghị Trung ương lần thứ nhất (10/1930)",
+      "b": "Đại hội II (2/1951)",
+      "c": "Hội nghị thành lập Đảng (2/1930)",
+      "d": "Đại hội IV (12/1976)"
+    },
+    "answer": "c",
+    "explanation": "Tên gọi \"Đảng Cộng sản Việt Nam\" được đặt lần đầu tiên tại Hội nghị thành lập Đảng (tháng 2/1930)."
+  },
+  {
+    "id": 77,
+    "question": "Tên gọi \"Đảng Cộng sản Đông Dương\" được sử dụng từ năm nào?",
+    "options": {
+      "a": "1930 (tháng 2)",
+      "b": "1930 (tháng 10)",
+      "c": "1951",
+      "d": "1976"
+    },
+    "answer": "b",
+    "explanation": "Tên gọi \"Đảng Cộng sản Đông Dương\" được sử dụng từ tháng 10/1930 tại Hội nghị Trung ương lần thứ nhất."
+  },
+  {
+    "id": 78,
+    "question": "Tên gọi \"Đảng Lao động Việt Nam\" được sử dụng trong giai đoạn nào?",
+    "options": {
+      "a": "1930 - 1951",
+      "b": "1951 - 1976",
+      "c": "1976 - nay",
+      "d": "1941 - 1951"
+    },
+    "answer": "b",
+    "explanation": "Tên gọi \"Đảng Lao động Việt Nam\" được sử dụng trong giai đoạn 1951 - 1976 (từ Đại hội II đến Đại hội IV)."
+  },
+  {
+    "id": 79,
+    "question": "Đảng ta đã trải qua bao nhiêu lần đổi tên trong lịch sử?",
+    "options": {
+      "a": "1 lần",
+      "b": "2 lần",
+      "c": "3 lần",
+      "d": "4 lần"
+    },
+    "answer": "c",
+    "explanation": "Đảng ta đã trải qua 3 lần đổi tên: ĐCSVN (2/1930) → ĐCS Đông Dương (10/1930) → Đảng Lao động VN (1951) → ĐCSVN (1976)."
+  }
+]

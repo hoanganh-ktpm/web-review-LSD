@@ -1,0 +1,194 @@
+[
+  {
+    "id": 36,
+    "question": "Hội nghị 10/1936 (Chung quanh vấn đề chiến sách mới) nhận thức lại 2 nhiệm vụ dân tộc và dân chủ như thế nào?",
+    "options": {
+      "a": "Phải kết chặt làm một",
+      "b": "Không nhất định phải kết chặt",
+      "c": "Chỉ tập trung nhiệm vụ dân tộc, bỏ nhiệm vụ dân chủ",
+      "d": "Chỉ tập trung nhiệm vụ dân chủ, bỏ nhiệm vụ dân tộc"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị 10/1936 nhận thức lại 2 nhiệm vụ dân tộc và dân chủ là không nhất định phải kết chặt."
+  },
+  {
+    "id": 37,
+    "question": "Việc nhận thức lại 2 nhiệm vụ dân tộc và dân chủ tại Hội nghị 10/1936 có ý nghĩa gì?",
+    "options": {
+      "a": "Khắc phục hạn chế của Luận cương 10/1930, trở lại Cương lĩnh đầu tiên",
+      "b": "Bác bỏ hoàn toàn Cương lĩnh đầu tiên",
+      "c": "Mở đường cho cách mạng bạo lực",
+      "d": "Thành lập Mặt trận Việt Minh"
+    },
+    "answer": "a",
+    "explanation": "Việc nhận thức lại 2 nhiệm vụ dân tộc và dân chủ tại Hội nghị 10/1936 có ý nghĩa khắc phục hạn chế của Luận cương 10/1930, trở lại Cương lĩnh đầu tiên."
+  },
+  {
+    "id": 38,
+    "question": "Đâu KHÔNG PHẢI là hạn chế của Đại hội I (1935)?",
+    "options": {
+      "a": "Chưa đặt nhiệm vụ giải phóng dân tộc lên đầu",
+      "b": "Chưa tập hợp toàn dân",
+      "c": "Chưa đề ra nhiệm vụ chống chủ nghĩa phát xít",
+      "d": "Quá chú trọng vào việc xây dựng nền kinh tế tư bản"
+    },
+    "answer": "d",
+    "explanation": "\"Quá chú trọng vào việc xây dựng nền kinh tế tư bản\" KHÔNG PHẢI là hạn chế của Đại hội I (1935). Các đáp án A, B, C đều là hạn chế có thực."
+  },
+  {
+    "id": 39,
+    "question": "Theo Chính cương của Đảng Lao động Việt Nam (Đại hội II - 1951), đối tượng chính của cách mạng là ai?",
+    "options": {
+      "a": "Thực dân Pháp và địa chủ phong kiến",
+      "b": "Đế quốc Pháp và can thiệp Mỹ",
+      "c": "Đế quốc Mỹ và chính quyền Sài Gòn",
+      "d": "Chủ nghĩa phát xít Nhật"
+    },
+    "answer": "b",
+    "explanation": "Theo Chính cương của Đảng Lao động Việt Nam (Đại hội II - 1951), đối tượng chính của cách mạng là đế quốc Pháp và can thiệp Mỹ."
+  },
+  {
+    "id": 40,
+    "question": "Theo Chính cương Đại hội II (1951), nhiệm vụ hàng đầu của cách mạng là gì?",
+    "options": {
+      "a": "Hoàn thành thổ địa cách mạng",
+      "b": "Xây dựng chủ nghĩa xã hội",
+      "c": "Hoàn thành giải phóng dân tộc",
+      "d": "Tiến hành công nghiệp hóa"
+    },
+    "answer": "c",
+    "explanation": "Theo Chính cương Đại hội II (1951), nhiệm vụ hàng đầu của cách mạng là hoàn thành giải phóng dân tộc."
+  },
+  {
+    "id": 41,
+    "question": "Chính cương Đại hội II (1951) xác định động lực chính của cách mạng là khối liên minh nào?",
+    "options": {
+      "a": "Công - nông",
+      "b": "Công - nông - trí thức",
+      "c": "Công - nông - tư sản",
+      "d": "Toàn thể dân tộc"
+    },
+    "answer": "b",
+    "explanation": "Chính cương Đại hội II (1951) xác định động lực chính của cách mạng là khối liên minh Công - nông - trí thức."
+  },
+  {
+    "id": 42,
+    "question": "Chính cương Đại hội II (1951) chỉ ra con đường đi lên CNXH được chia làm mấy giai đoạn và có bao nhiêu chính sách lớn?",
+    "options": {
+      "a": "2 giai đoạn, 10 chính sách lớn",
+      "b": "3 giai đoạn, 15 chính sách lớn",
+      "c": "4 giai đoạn, 15 chính sách lớn",
+      "d": "3 giai đoạn, 20 chính sách lớn"
+    },
+    "answer": "b",
+    "explanation": "Chính cương Đại hội II (1951) chỉ ra con đường đi lên CNXH được chia làm 3 giai đoạn và có 15 chính sách lớn."
+  },
+  {
+    "id": 43,
+    "question": "Đại hội III (1960) hoàn chỉnh đường lối chung và xác định cách mạng XHCN ở miền Bắc giữ vai trò gì?",
+    "options": {
+      "a": "Quyết định trực tiếp",
+      "b": "Quyết định nhất",
+      "c": "Căn cứ địa hậu cần",
+      "d": "Động lực chính"
+    },
+    "answer": "b",
+    "explanation": "Đại hội III (1960) xác định cách mạng XHCN ở miền Bắc giữ vai trò quyết định nhất."
+  },
+  {
+    "id": 44,
+    "question": "Đại hội III (1960) xác định cách mạng DTDCND ở miền Nam giữ vai trò gì?",
+    "options": {
+      "a": "Quyết định trực tiếp",
+      "b": "Quyết định nhất",
+      "c": "Tiền tuyến lớn",
+      "d": "Quyết định gián tiếp"
+    },
+    "answer": "a",
+    "explanation": "Đại hội III (1960) xác định cách mạng DTDCND ở miền Nam giữ vai trò quyết định trực tiếp."
+  },
+  {
+    "id": 45,
+    "question": "Hội nghị TW 11 và 12 (1965) đã hoàn chỉnh đường lối và nêu lên quyết tâm chiến lược là gì?",
+    "options": {
+      "a": "Giải phóng miền Nam trong 2 năm",
+      "b": "Tổng tiến công và nổi dậy",
+      "c": "Đánh thắng giặc Mỹ",
+      "d": "Đánh đổ chính quyền tay sai"
+    },
+    "answer": "c",
+    "explanation": "Hội nghị TW 11 và 12 (1965) đã hoàn chỉnh đường lối và nêu lên quyết tâm chiến lược là đánh thắng giặc Mỹ."
+  },
+  {
+    "id": 107,
+    "question": "Đại hội I của Đảng được tổ chức vào năm nào?",
+    "options": {
+      "a": "1930",
+      "b": "1935",
+      "c": "1941",
+      "d": "1951"
+    },
+    "answer": "b",
+    "explanation": "Đại hội I của Đảng được tổ chức vào năm 1935."
+  },
+  {
+    "id": 108,
+    "question": "Đại hội II của Đảng được tổ chức vào năm nào?",
+    "options": {
+      "a": "1945",
+      "b": "1951",
+      "c": "1960",
+      "d": "1976"
+    },
+    "answer": "b",
+    "explanation": "Đại hội II của Đảng được tổ chức vào tháng 2/1951."
+  },
+  {
+    "id": 109,
+    "question": "Đại hội III của Đảng được tổ chức vào năm nào?",
+    "options": {
+      "a": "1951",
+      "b": "1955",
+      "c": "1960",
+      "d": "1976"
+    },
+    "answer": "c",
+    "explanation": "Đại hội III của Đảng được tổ chức vào năm 1960."
+  },
+  {
+    "id": 110,
+    "question": "Hội nghị nào năm 1936 có ý nghĩa khắc phục hạn chế của Luận cương 10/1930?",
+    "options": {
+      "a": "Hội nghị Trung ương lần thứ nhất",
+      "b": "Hội nghị 10/1936 (Chung quanh vấn đề chiến sách mới)",
+      "c": "Đại hội I",
+      "d": "Hội nghị thành lập Đảng"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị 10/1936 (Chung quanh vấn đề chiến sách mới) có ý nghĩa khắc phục hạn chế của Luận cương 10/1930."
+  },
+  {
+    "id": 111,
+    "question": "\"Quyết định nhất\" là vai trò của cách mạng nào theo Đại hội III (1960)?",
+    "options": {
+      "a": "Cách mạng DTDCND ở miền Nam",
+      "b": "Cách mạng XHCN ở miền Bắc",
+      "c": "Cách mạng thế giới",
+      "d": "Cách mạng dân tộc dân chủ"
+    },
+    "answer": "b",
+    "explanation": "\"Quyết định nhất\" là vai trò của cách mạng XHCN ở miền Bắc theo Đại hội III (1960)."
+  },
+  {
+    "id": 112,
+    "question": "\"Quyết định trực tiếp\" là vai trò của cách mạng nào theo Đại hội III (1960)?",
+    "options": {
+      "a": "Cách mạng XHCN ở miền Bắc",
+      "b": "Cách mạng DTDCND ở miền Nam",
+      "c": "Cả hai cách mạng",
+      "d": "Cách mạng thế giới"
+    },
+    "answer": "b",
+    "explanation": "\"Quyết định trực tiếp\" là vai trò của cách mạng DTDCND ở miền Nam theo Đại hội III (1960)."
+  }
+]

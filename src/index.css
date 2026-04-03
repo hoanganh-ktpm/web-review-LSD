@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Work+Sans:wght@400;500;600&display=swap");
+
+:root {
+  --bg: #f6f1ea;
+  --panel: #ffffff;
+  --surface: #f9f7f3;
+  --ink: #1f1c1a;
+  --muted: #5c5753;
+  --accent: #0f766e;
+  --accent-strong: #0b4f4a;
+  --accent-soft: rgba(15, 118, 110, 0.12);
+  --border: rgba(31, 28, 26, 0.12);
+  --border-soft: rgba(31, 28, 26, 0.18);
+  --danger: #e11d48;
+  --shadow-soft: 0 12px 30px -26px rgba(31, 28, 26, 0.5);
+  --shadow-strong: 0 18px 30px -22px rgba(15, 118, 110, 0.6);
+  --sans: "Work Sans", "Segoe UI", sans-serif;
+  --heading: "Space Grotesk", "Segoe UI", sans-serif;
+
+  font: 16px/1.6 var(--sans);
+  color: var(--muted);
+  background: var(--bg);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  min-height: 100svh;
+  background:
+    radial-gradient(circle at top, rgba(15, 118, 110, 0.12), transparent 45%),
+    radial-gradient(
+      circle at 90% 10%,
+      rgba(249, 115, 22, 0.18),
+      transparent 40%
+    ),
+    var(--bg);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#root {
+  width: min(1200px, 100%);
+  margin: 0 auto;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--heading);
+  color: var(--ink);
+  margin: 0;
+}
+
+h1 {
+  font-size: clamp(2.2rem, 4vw, 3.6rem);
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.1rem;
+}
+
+p {
+  margin: 0;
+}
+
+button,
+input {
+  font-family: inherit;
+}

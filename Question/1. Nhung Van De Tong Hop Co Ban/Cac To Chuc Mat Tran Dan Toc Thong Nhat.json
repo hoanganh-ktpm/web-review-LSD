@@ -1,0 +1,98 @@
+[
+  {
+    "id": 5,
+    "question": "Tổ chức \"Mặt trận Việt Minh\" được thành lập vào năm nào?",
+    "options": {
+      "a": "1930",
+      "b": "1936",
+      "c": "1941",
+      "d": "1951"
+    },
+    "answer": "c",
+    "explanation": "Tổ chức \"Mặt trận Việt Minh\" được thành lập vào năm 1941."
+  },
+  {
+    "id": 6,
+    "question": "Tổ chức \"Mặt trận Liên Việt\" được thành lập vào năm nào?",
+    "options": {
+      "a": "1941",
+      "b": "1945",
+      "c": "1951",
+      "d": "1954"
+    },
+    "answer": "c",
+    "explanation": "Tổ chức \"Mặt trận Liên Việt\" được thành lập vào năm 1951."
+  },
+  {
+    "id": 7,
+    "question": "Ngày 20/12/1960 tại Tây Ninh, tổ chức nào sau đây được thành lập?",
+    "options": {
+      "a": "Mặt trận Tổ quốc Việt Nam",
+      "b": "Mặt trận Liên Việt",
+      "c": "Mặt trận Dân chủ Đông Dương",
+      "d": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam"
+    },
+    "answer": "d",
+    "explanation": "Ngày 20/12/1960 tại Tây Ninh, Mặt trận Dân tộc Giải phóng miền Nam Việt Nam được thành lập."
+  },
+  {
+    "id": 8,
+    "question": "Tổ chức đại diện cho khối đại đoàn kết toàn dân tộc ở nước ta hiện nay có tên là gì?",
+    "options": {
+      "a": "Mặt trận Liên hiệp quốc dân Việt Nam",
+      "b": "Mặt trận Tổ quốc Việt Nam",
+      "c": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam",
+      "d": "Mặt trận Việt Minh"
+    },
+    "answer": "b",
+    "explanation": "Tổ chức đại diện cho khối đại đoàn kết toàn dân tộc ở nước ta hiện nay là Mặt trận Tổ quốc Việt Nam."
+  },
+  {
+    "id": 80,
+    "question": "Năm 1941, tổ chức Mặt trận nào được thành lập?",
+    "options": {
+      "a": "Mặt trận Liên Việt",
+      "b": "Mặt trận Việt Minh",
+      "c": "Mặt trận Tổ quốc Việt Nam",
+      "d": "Mặt trận Dân tộc Giải phóng miền Nam"
+    },
+    "answer": "b",
+    "explanation": "Năm 1941, Mặt trận Việt Minh được thành lập."
+  },
+  {
+    "id": 81,
+    "question": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam được thành lập tại đâu?",
+    "options": {
+      "a": "Sài Gòn",
+      "b": "Hà Nội",
+      "c": "Tây Ninh",
+      "d": "Huế"
+    },
+    "answer": "c",
+    "explanation": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam được thành lập tại Tây Ninh ngày 20/12/1960."
+  },
+  {
+    "id": 82,
+    "question": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam được thành lập vào ngày tháng năm nào?",
+    "options": {
+      "a": "19/5/1941",
+      "b": "2/9/1945",
+      "c": "20/12/1960",
+      "d": "30/4/1975"
+    },
+    "answer": "c",
+    "explanation": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam được thành lập ngày 20/12/1960."
+  },
+  {
+    "id": 83,
+    "question": "Mặt trận Liên Việt và Mặt trận Việt Minh thành lập cách nhau bao nhiêu năm?",
+    "options": {
+      "a": "5 năm",
+      "b": "10 năm",
+      "c": "15 năm",
+      "d": "20 năm"
+    },
+    "answer": "b",
+    "explanation": "Mặt trận Việt Minh thành lập năm 1941, Mặt trận Liên Việt thành lập năm 1951, cách nhau 10 năm."
+  }
+]

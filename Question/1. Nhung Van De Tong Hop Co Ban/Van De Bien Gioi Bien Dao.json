@@ -1,0 +1,110 @@
+[
+  {
+    "id": 13,
+    "question": "Năm 1974, Trung Quốc đã dùng vũ lực chiếm đóng trái phép quần đảo nào của Việt Nam?",
+    "options": {
+      "a": "Quần đảo Trường Sa",
+      "b": "Quần đảo Hoàng Sa",
+      "c": "Đảo Phú Quốc",
+      "d": "Đảo Cồn Cỏ"
+    },
+    "answer": "b",
+    "explanation": "Năm 1974, Trung Quốc đã dùng vũ lực chiếm đóng trái phép quần đảo Hoàng Sa của Việt Nam."
+  },
+  {
+    "id": 14,
+    "question": "Sự kiện Trung Quốc huy động hơn 60 vạn quân đồng loạt tấn công nước ta ở biên giới phía Bắc diễn ra vào ngày nào?",
+    "options": {
+      "a": "17/2/1979",
+      "b": "30/4/1975",
+      "c": "14/3/1988",
+      "d": "20/12/1979"
+    },
+    "answer": "a",
+    "explanation": "Sự kiện Trung Quốc huy động hơn 60 vạn quân đồng loạt tấn công nước ta ở biên giới phía Bắc diễn ra vào ngày 17/2/1979."
+  },
+  {
+    "id": 15,
+    "question": "Tháng 3/1988, Trung Quốc đã dùng vũ lực chiếm đảo nào thuộc quần đảo Trường Sa của Việt Nam?",
+    "options": {
+      "a": "Đảo Ba Bình",
+      "b": "Đảo Phú Lâm",
+      "c": "Đảo Gạc Ma",
+      "d": "Đảo Chữ Thập"
+    },
+    "answer": "c",
+    "explanation": "Tháng 3/1988, Trung Quốc đã dùng vũ lực chiếm đảo Gạc Ma thuộc quần đảo Trường Sa của Việt Nam."
+  },
+  {
+    "id": 16,
+    "question": "Hiện tại, Việt Nam đang làm chủ bao nhiêu thực thể địa lý ở quần đảo Trường Sa?",
+    "options": {
+      "a": "19",
+      "b": "20",
+      "c": "21",
+      "d": "22"
+    },
+    "answer": "c",
+    "explanation": "Hiện tại, Việt Nam đang làm chủ 21 thực thể địa lý ở quần đảo Trường Sa."
+  },
+  {
+    "id": 89,
+    "question": "Quần đảo Hoàng Sa bị Trung Quốc chiếm đóng trái phép vào năm nào?",
+    "options": {
+      "a": "1954",
+      "b": "1974",
+      "c": "1979",
+      "d": "1988"
+    },
+    "answer": "b",
+    "explanation": "Quần đảo Hoàng Sa bị Trung Quốc chiếm đóng trái phép vào năm 1974."
+  },
+  {
+    "id": 90,
+    "question": "Sự kiện chiến tranh biên giới phía Bắc năm 1979, Trung Quốc đã huy động bao nhiêu quân?",
+    "options": {
+      "a": "Hơn 30 vạn quân",
+      "b": "Hơn 40 vạn quân",
+      "c": "Hơn 50 vạn quân",
+      "d": "Hơn 60 vạn quân"
+    },
+    "answer": "d",
+    "explanation": "Trong chiến tranh biên giới phía Bắc năm 1979, Trung Quốc đã huy động hơn 60 vạn quân."
+  },
+  {
+    "id": 91,
+    "question": "Đảo Gạc Ma thuộc quần đảo nào của Việt Nam?",
+    "options": {
+      "a": "Quần đảo Hoàng Sa",
+      "b": "Quần đảo Trường Sa",
+      "c": "Quần đảo Côn Đảo",
+      "d": "Quần đảo Thổ Chu"
+    },
+    "answer": "b",
+    "explanation": "Đảo Gạc Ma thuộc quần đảo Trường Sa của Việt Nam."
+  },
+  {
+    "id": 92,
+    "question": "Sự kiện Gạc Ma xảy ra vào năm nào?",
+    "options": {
+      "a": "1974",
+      "b": "1979",
+      "c": "1988",
+      "d": "1990"
+    },
+    "answer": "c",
+    "explanation": "Sự kiện Gạc Ma xảy ra vào tháng 3/1988 khi Trung Quốc dùng vũ lực chiếm đảo này."
+  },
+  {
+    "id": 93,
+    "question": "Ngày 17/2/1979 gắn liền với sự kiện lịch sử nào?",
+    "options": {
+      "a": "Chiến thắng Điện Biên Phủ",
+      "b": "Giải phóng miền Nam",
+      "c": "Chiến tranh biên giới phía Bắc",
+      "d": "Trung Quốc chiếm Hoàng Sa"
+    },
+    "answer": "c",
+    "explanation": "Ngày 17/2/1979 là ngày Trung Quốc đồng loạt tấn công biên giới phía Bắc Việt Nam."
+  }
+]

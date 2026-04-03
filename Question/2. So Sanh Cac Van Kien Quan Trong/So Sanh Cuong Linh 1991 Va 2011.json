@@ -1,0 +1,158 @@
+[
+  {
+    "id": 29,
+    "question": "Cương lĩnh năm 1991 xác định xã hội xã hội chủ nghĩa có bao nhiêu đặc trưng?",
+    "options": {
+      "a": "5 đặc trưng",
+      "b": "6 đặc trưng",
+      "c": "7 đặc trưng",
+      "d": "8 đặc trưng"
+    },
+    "answer": "b",
+    "explanation": "Cương lĩnh năm 1991 xác định xã hội xã hội chủ nghĩa có 6 đặc trưng."
+  },
+  {
+    "id": 30,
+    "question": "Cương lĩnh năm 2011 xác định xã hội xã hội chủ nghĩa có bao nhiêu đặc trưng?",
+    "options": {
+      "a": "5 đặc trưng",
+      "b": "6 đặc trưng",
+      "c": "7 đặc trưng",
+      "d": "8 đặc trưng"
+    },
+    "answer": "d",
+    "explanation": "Cương lĩnh năm 2011 xác định xã hội xã hội chủ nghĩa có 8 đặc trưng."
+  },
+  {
+    "id": 31,
+    "question": "Trong mục tiêu bổ sung, Cương lĩnh 2011 đã thêm cụm từ nào sau đây?",
+    "options": {
+      "a": "Độc lập, tự do, hạnh phúc",
+      "b": "Công bằng, tiến bộ, văn minh",
+      "c": "Dân chủ, công bằng",
+      "d": "Hiện đại, phồn vinh"
+    },
+    "answer": "c",
+    "explanation": "Trong mục tiêu bổ sung, Cương lĩnh 2011 đã thêm cụm từ \"dân chủ, công bằng\" (Dân giàu, nước mạnh, dân chủ, công bằng, văn minh)."
+  },
+  {
+    "id": 32,
+    "question": "Cương lĩnh 2011 đã bổ sung từ gì vào cuối câu mục tiêu tổng quát (so với chữ \"phồn vinh\" của năm 1991)?",
+    "options": {
+      "a": "Hạnh phúc",
+      "b": "Văn minh",
+      "c": "Phát triển",
+      "d": "Vững bước"
+    },
+    "answer": "a",
+    "explanation": "Cương lĩnh 2011 đã bổ sung từ \"hạnh phúc\" vào cuối câu mục tiêu tổng quát."
+  },
+  {
+    "id": 33,
+    "question": "Về Nhà nước, Cương lĩnh 2011 lần đầu tiên khẳng định có Nhà nước hình thức nào?",
+    "options": {
+      "a": "Nhà nước chuyên chính vô sản",
+      "b": "Nhà nước dân chủ nhân dân",
+      "c": "Nhà nước tư sản dân quyền",
+      "d": "Nhà nước pháp quyền XHCN"
+    },
+    "answer": "d",
+    "explanation": "Về Nhà nước, Cương lĩnh 2011 lần đầu tiên khẳng định có Nhà nước pháp quyền XHCN."
+  },
+  {
+    "id": 34,
+    "question": "Về xây dựng chủ nghĩa xã hội, Cương lĩnh 1991 dùng từ \"cơ sở kinh tế\", còn Cương lĩnh 2011 dùng từ gì?",
+    "options": {
+      "a": "Cấu trúc kinh tế",
+      "b": "Nền tảng kinh tế",
+      "c": "Móng vuốt kinh tế",
+      "d": "Hệ thống kinh tế"
+    },
+    "answer": "b",
+    "explanation": "Về xây dựng chủ nghĩa xã hội, Cương lĩnh 2011 dùng từ \"nền tảng kinh tế\" thay cho \"cơ sở kinh tế\" của Cương lĩnh 1991."
+  },
+  {
+    "id": 35,
+    "question": "Cương lĩnh 1991 coi sự lãnh đạo của Đảng là nhân tố hàng đầu \"bảo đảm\" thắng lợi, còn Cương lĩnh 2011 coi đây là nhân tố hàng đầu mang tính chất gì?",
+    "options": {
+      "a": "Thúc đẩy",
+      "b": "Quyết định",
+      "c": "Định hướng",
+      "d": "Dẫn dắt"
+    },
+    "answer": "b",
+    "explanation": "Cương lĩnh 2011 coi sự lãnh đạo của Đảng là nhân tố hàng đầu mang tính chất \"quyết định\" thắng lợi."
+  },
+  {
+    "id": 101,
+    "question": "Cương lĩnh nào xác định xã hội XHCN có 6 đặc trưng?",
+    "options": {
+      "a": "Cương lĩnh 1991",
+      "b": "Cương lĩnh 2011",
+      "c": "Cương lĩnh 2/1930",
+      "d": "Luận cương 10/1930"
+    },
+    "answer": "a",
+    "explanation": "Cương lĩnh 1991 xác định xã hội XHCN có 6 đặc trưng."
+  },
+  {
+    "id": 102,
+    "question": "Cương lĩnh nào xác định xã hội XHCN có 8 đặc trưng?",
+    "options": {
+      "a": "Cương lĩnh 1991",
+      "b": "Cương lĩnh 2011",
+      "c": "Cương lĩnh 2/1930",
+      "d": "Luận cương 10/1930"
+    },
+    "answer": "b",
+    "explanation": "Cương lĩnh 2011 xác định xã hội XHCN có 8 đặc trưng."
+  },
+  {
+    "id": 103,
+    "question": "\"Nhà nước pháp quyền XHCN\" lần đầu được khẳng định trong Cương lĩnh năm nào?",
+    "options": {
+      "a": "1930",
+      "b": "1991",
+      "c": "2011",
+      "d": "2021"
+    },
+    "answer": "c",
+    "explanation": "\"Nhà nước pháp quyền XHCN\" lần đầu được khẳng định trong Cương lĩnh 2011."
+  },
+  {
+    "id": 104,
+    "question": "Mục tiêu \"Dân giàu, nước mạnh, dân chủ, công bằng, văn minh\" được nêu trong Cương lĩnh năm nào?",
+    "options": {
+      "a": "1991",
+      "b": "2011",
+      "c": "1930",
+      "d": "1951"
+    },
+    "answer": "b",
+    "explanation": "Mục tiêu \"Dân giàu, nước mạnh, dân chủ, công bằng, văn minh\" được nêu trong Cương lĩnh 2011 (bổ sung \"dân chủ, công bằng\")."
+  },
+  {
+    "id": 105,
+    "question": "Cương lĩnh 1991 dùng từ \"cơ sở kinh tế\", Cương lĩnh 2011 thay bằng từ gì?",
+    "options": {
+      "a": "Cơ cấu kinh tế",
+      "b": "Nền tảng kinh tế",
+      "c": "Hạ tầng kinh tế",
+      "d": "Cột trụ kinh tế"
+    },
+    "answer": "b",
+    "explanation": "Cương lĩnh 2011 thay \"cơ sở kinh tế\" bằng \"nền tảng kinh tế\"."
+  },
+  {
+    "id": 106,
+    "question": "Sự lãnh đạo của Đảng là nhân tố \"quyết định\" thắng lợi - quan điểm này thuộc Cương lĩnh nào?",
+    "options": {
+      "a": "Cương lĩnh 1991",
+      "b": "Cương lĩnh 2011",
+      "c": "Cả hai Cương lĩnh",
+      "d": "Cương lĩnh 2/1930"
+    },
+    "answer": "b",
+    "explanation": "Cương lĩnh 2011 coi sự lãnh đạo của Đảng là nhân tố \"quyết định\" (Cương lĩnh 1991 dùng từ \"bảo đảm\")."
+  }
+]

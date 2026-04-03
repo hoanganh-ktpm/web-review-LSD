@@ -1,0 +1,110 @@
+[
+  {
+    "id": 52,
+    "question": "Hội nghị TW 6, khóa IV đã lần đầu tiên thừa nhận vấn đề gì?",
+    "options": {
+      "a": "Thừa nhận kinh tế tư nhân",
+      "b": "Thừa nhận thị trường",
+      "c": "Thừa nhận khoán sản phẩm",
+      "d": "Thừa nhận hội nhập quốc tế"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị TW 6, khóa IV đã lần đầu tiên thừa nhận thị trường."
+  },
+  {
+    "id": 53,
+    "question": "Đại hội VI (1986) đã lần đầu tiên nâng vấn đề nào lên tầm chính sách?",
+    "options": {
+      "a": "Vấn đề văn hóa",
+      "b": "Vấn đề môi trường",
+      "c": "Vấn đề xã hội",
+      "d": "Vấn đề tôn giáo"
+    },
+    "answer": "c",
+    "explanation": "Đại hội VI (1986) đã lần đầu tiên nâng vấn đề xã hội lên tầm chính sách."
+  },
+  {
+    "id": 54,
+    "question": "Sự kiện nào vào tháng 12/1987 là cơ sở pháp lý đầu tiên cho việc thu hút FDI?",
+    "options": {
+      "a": "Ban hành Luật Doanh nghiệp",
+      "b": "Ban hành Luật Đầu tư nước ngoài",
+      "c": "Ban hành Hiệp định thương mại",
+      "d": "Gia nhập WTO"
+    },
+    "answer": "b",
+    "explanation": "Tháng 12/1987, việc ban hành Luật Đầu tư nước ngoài là cơ sở pháp lý đầu tiên cho việc thu hút FDI."
+  },
+  {
+    "id": 55,
+    "question": "Hội nghị TW 6, khóa VI chính thức dùng khái niệm \"Hệ thống chính trị\" để thay thế cho khái niệm nào?",
+    "options": {
+      "a": "Nhà nước pháp quyền",
+      "b": "Chuyên chính vô sản",
+      "c": "Dân chủ nhân dân",
+      "d": "Mặt trận tổ quốc"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị TW 6, khóa VI chính thức dùng khái niệm \"Hệ thống chính trị\" để thay thế cho khái niệm \"Chuyên chính vô sản\"."
+  },
+  {
+    "id": 56,
+    "question": "Đại hội VII nêu lên đặc trưng của nền văn hóa Việt Nam là gì?",
+    "options": {
+      "a": "Tiên tiến, hiện đại",
+      "b": "Đậm đà bản sắc phương Đông",
+      "c": "Tiên tiến, đậm đà bản sắc dân tộc",
+      "d": "Hội nhập, đa dạng văn hóa"
+    },
+    "answer": "c",
+    "explanation": "Đại hội VII nêu lên đặc trưng của nền văn hóa Việt Nam là tiên tiến, đậm đà bản sắc dân tộc."
+  },
+  {
+    "id": 57,
+    "question": "Hội nghị giữa nhiệm kỳ khóa VII lần đầu tiên khẳng định việc xây dựng cái gì?",
+    "options": {
+      "a": "Nền kinh tế thị trường",
+      "b": "Nhà nước pháp quyền",
+      "c": "Hệ thống chính trị trong sạch",
+      "d": "Nền văn hóa mới"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị giữa nhiệm kỳ khóa VII lần đầu tiên khẳng định việc xây dựng Nhà nước pháp quyền."
+  },
+  {
+    "id": 58,
+    "question": "Đại hội IX lần đầu tiên đưa ra mô hình tổng quát là gì?",
+    "options": {
+      "a": "Kinh tế kế hoạch hóa tập trung",
+      "b": "Kinh tế thị trường định hướng XHCN",
+      "c": "Kinh tế tri thức",
+      "d": "Kinh tế nhiều thành phần"
+    },
+    "answer": "b",
+    "explanation": "Đại hội IX lần đầu tiên đưa ra mô hình tổng quát là kinh tế thị trường định hướng XHCN."
+  },
+  {
+    "id": 59,
+    "question": "Đại hội IX lần đầu tiên chủ trương xây dựng quan hệ gì trong đối ngoại?",
+    "options": {
+      "a": "Quan hệ đối tác",
+      "b": "Quan hệ đồng minh chiến lược",
+      "c": "Quan hệ láng giềng hữu nghị",
+      "d": "Quan hệ song phương toàn diện"
+    },
+    "answer": "a",
+    "explanation": "Đại hội IX lần đầu tiên chủ trương xây dựng quan hệ đối tác trong đối ngoại."
+  },
+  {
+    "id": 60,
+    "question": "Đại hội XI lần đầu tiên đặt yếu tố nào làm mục tiêu và nguyên tắc cao nhất của đối ngoại?",
+    "options": {
+      "a": "Lợi ích giai cấp",
+      "b": "Lợi ích quốc gia, dân tộc",
+      "c": "Hòa bình thế giới",
+      "d": "Đoàn kết quốc tế"
+    },
+    "answer": "b",
+    "explanation": "Đại hội XI lần đầu tiên đặt lợi ích quốc gia, dân tộc làm mục tiêu và nguyên tắc cao nhất của đối ngoại."
+  }
+]

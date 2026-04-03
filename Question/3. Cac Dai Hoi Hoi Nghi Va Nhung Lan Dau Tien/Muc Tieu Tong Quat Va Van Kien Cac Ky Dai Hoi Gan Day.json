@@ -1,0 +1,170 @@
+[
+  {
+    "id": 61,
+    "question": "Nghị quyết 13 (năm 1988) đã đặt nền móng cho đường lối nào trong thời kỳ đổi mới?",
+    "options": {
+      "a": "Đường lối phát triển kinh tế",
+      "b": "Đường lối đối ngoại đổi mới",
+      "c": "Đường lối giáo dục",
+      "d": "Đường lối quốc phòng"
+    },
+    "answer": "b",
+    "explanation": "Nghị quyết 13 (năm 1988) đã đặt nền móng cho đường lối đối ngoại đổi mới."
+  },
+  {
+    "id": 62,
+    "question": "Hội nghị TW 2, khóa VIII xác định lĩnh vực nào là quốc sách hàng đầu?",
+    "options": {
+      "a": "Y tế và chăm sóc sức khỏe",
+      "b": "Giáo dục & Khoa học Công nghệ (KHCN)",
+      "c": "An ninh và Quốc phòng",
+      "d": "Văn hóa và Du lịch"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị TW 2, khóa VIII xác định Giáo dục & Khoa học Công nghệ (KHCN) là quốc sách hàng đầu."
+  },
+  {
+    "id": 63,
+    "question": "Đại hội X (2006) có chủ trương đột phá là cho phép đối tượng nào được làm kinh tế tư nhân?",
+    "options": {
+      "a": "Cán bộ công chức",
+      "b": "Đảng viên",
+      "c": "Quân nhân",
+      "d": "Quần chúng nhân dân"
+    },
+    "answer": "b",
+    "explanation": "Đại hội X (2006) có chủ trương đột phá là cho phép đảng viên được làm kinh tế tư nhân."
+  },
+  {
+    "id": 64,
+    "question": "Hội nghị TW 4, khóa X đã ban hành Chiến lược gì?",
+    "options": {
+      "a": "Chiến lược bảo vệ Tổ quốc",
+      "b": "Chiến lược phát triển giáo dục",
+      "c": "Chiến lược biển đến năm 2020",
+      "d": "Chiến lược văn hóa"
+    },
+    "answer": "c",
+    "explanation": "Hội nghị TW 4, khóa X đã ban hành Chiến lược biển đến năm 2020."
+  },
+  {
+    "id": 65,
+    "question": "Phấn đấu đến giữa thế kỷ XXI trở thành \"nước công nghiệp hiện đại\" là mục tiêu của Đại hội nào?",
+    "options": {
+      "a": "Đại hội X",
+      "b": "Đại hội XI (2011)",
+      "c": "Đại hội XII",
+      "d": "Đại hội XIII"
+    },
+    "answer": "b",
+    "explanation": "Phấn đấu đến giữa thế kỷ XXI trở thành \"nước công nghiệp hiện đại\" là mục tiêu của Đại hội XI (2011)."
+  },
+  {
+    "id": 66,
+    "question": "Đại hội XII xác định xây dựng Đảng về mặt nào thành một mặt riêng biệt, ngang tầm với chính trị, tư tưởng, tổ chức?",
+    "options": {
+      "a": "Mặt đạo đức",
+      "b": "Mặt cán bộ",
+      "c": "Mặt kiểm tra",
+      "d": "Mặt kinh tế"
+    },
+    "answer": "a",
+    "explanation": "Đại hội XII xác định xây dựng Đảng về mặt đạo đức thành một mặt riêng biệt, ngang tầm với chính trị, tư tưởng, tổ chức."
+  },
+  {
+    "id": 67,
+    "question": "Hội nghị TW 5 khóa XII xác định Kinh tế tư nhân (KTTN) là gì của nền kinh tế thị trường định hướng XHCN?",
+    "options": {
+      "a": "Vai trò chủ đạo",
+      "b": "Một động lực quan trọng",
+      "c": "Thành phần kinh tế phụ trợ",
+      "d": "Nền tảng kinh tế"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị TW 5 khóa XII xác định Kinh tế tư nhân (KTTN) là một động lực quan trọng của nền kinh tế thị trường định hướng XHCN."
+  },
+  {
+    "id": 68,
+    "question": "Đại hội XIII (2021) đặt mục tiêu phấn đấu đến giữa thế kỷ XXI trở thành nước gì?",
+    "options": {
+      "a": "Nước công nghiệp hiện đại",
+      "b": "Nước đang phát triển",
+      "c": "Nước phát triển",
+      "d": "Nước có thu nhập trung bình cao"
+    },
+    "answer": "c",
+    "explanation": "Đại hội XIII (2021) đặt mục tiêu phấn đấu đến giữa thế kỷ XXI trở thành nước phát triển."
+  },
+  {
+    "id": 69,
+    "question": "Hội nghị TW 6 khóa XIII (11/2022) chủ trương đẩy mạnh CNH-HĐH và đổi mới phương thức gì của Đảng?",
+    "options": {
+      "a": "Phương thức tuyên truyền",
+      "b": "Phương thức tổ chức cán bộ",
+      "c": "Phương thức lãnh đạo",
+      "d": "Phương thức dân vận"
+    },
+    "answer": "c",
+    "explanation": "Hội nghị TW 6 khóa XIII (11/2022) chủ trương đẩy mạnh CNH-HĐH và đổi mới phương thức lãnh đạo của Đảng."
+  },
+  {
+    "id": 70,
+    "question": "Hội nghị TW 8 khóa XIII (11/2023) ban hành nghị quyết nâng cao chất lượng chính sách gì?",
+    "options": {
+      "a": "Chính sách kinh tế",
+      "b": "Chính sách xã hội",
+      "c": "Chính sách tiền tệ",
+      "d": "Chính sách đối ngoại"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị TW 8 khóa XIII (11/2023) ban hành nghị quyết nâng cao chất lượng chính sách xã hội."
+  },
+  {
+    "id": 71,
+    "question": "Cùng tại Hội nghị TW 8 khóa XIII (11/2023), Đảng yêu cầu phát huy vai trò của đội ngũ nào cùng với sức mạnh đại đoàn kết toàn dân tộc?",
+    "options": {
+      "a": "Đội ngũ trí thức",
+      "b": "Đội ngũ doanh nhân",
+      "c": "Đội ngũ thanh niên",
+      "d": "Đội ngũ công nhân"
+    },
+    "answer": "a",
+    "explanation": "Cùng tại Hội nghị TW 8 khóa XIII (11/2023), Đảng yêu cầu phát huy vai trò của đội ngũ trí thức cùng với sức mạnh đại đoàn kết toàn dân tộc."
+  },
+  {
+    "id": 72,
+    "question": "Đại hội XIV (1/2026) hiện thực hóa tầm nhìn đến 2045 trở thành nước có đặc điểm gì?",
+    "options": {
+      "a": "Nước công nghiệp hiện đại",
+      "b": "Nước đang phát triển, có công nghiệp hiện đại",
+      "c": "Nước phát triển, thu nhập cao",
+      "d": "Nước siêu cường kinh tế"
+    },
+    "answer": "c",
+    "explanation": "Đại hội XIV (1/2026) hiện thực hóa tầm nhìn đến 2045 trở thành nước phát triển, thu nhập cao."
+  },
+  {
+    "id": 73,
+    "question": "Đại hội XIV xác định xây dựng văn hóa đồng bộ trên nền tảng hệ giá trị nào?",
+    "options": {
+      "a": "Quốc gia, văn hóa, gia đình",
+      "b": "Chân, thiện, mỹ",
+      "c": "Độc lập, tự do, hạnh phúc",
+      "d": "Dân chủ, công bằng, văn minh"
+    },
+    "answer": "a",
+    "explanation": "Đại hội XIV xác định xây dựng văn hóa đồng bộ trên nền tảng hệ giá trị quốc gia, văn hóa, gia đình."
+  },
+  {
+    "id": 74,
+    "question": "Chủ đề Đại hội XIV nhấn mạnh: \"tự cường, tự tin tiến mạnh trong kỷ nguyên...\" gì?",
+    "options": {
+      "a": "Kỷ nguyên số hóa toàn cầu",
+      "b": "Kỷ nguyên ánh sáng",
+      "c": "Kỷ nguyên vươn mình của dân tộc",
+      "d": "Kỷ nguyên hội nhập quốc tế"
+    },
+    "answer": "c",
+    "explanation": "Chủ đề Đại hội XIV nhấn mạnh: \"tự cường, tự tin tiến mạnh trong kỷ nguyên vươn mình của dân tộc\"."
+  }
+]

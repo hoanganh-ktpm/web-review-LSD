@@ -1,0 +1,122 @@
+[
+  {
+    "id": 23,
+    "question": "Mâu thuẫn chủ yếu theo Cương lĩnh 2/1930 là gì?",
+    "options": {
+      "a": "Dân tộc Việt Nam với đế quốc xâm lược",
+      "b": "Nông dân với địa chủ",
+      "c": "Công nhân với tư sản",
+      "d": "Không xác định được"
+    },
+    "answer": "a",
+    "explanation": "Mâu thuẫn chủ yếu theo Cương lĩnh 2/1930 là dân tộc Việt Nam với đế quốc xâm lược."
+  },
+  {
+    "id": 24,
+    "question": "Mâu thuẫn chủ yếu theo Luận cương 10/1930 là gì?",
+    "options": {
+      "a": "Dân tộc Việt Nam với đế quốc xâm lược",
+      "b": "Nông dân với địa chủ",
+      "c": "Công nhân với tư sản",
+      "d": "Không xác định được"
+    },
+    "answer": "d",
+    "explanation": "Luận cương 10/1930 không xác định được mâu thuẫn chủ yếu một cách rõ ràng."
+  },
+  {
+    "id": 25,
+    "question": "Cương lĩnh 2/1930 đặt nhiệm vụ nào lên hàng đầu?",
+    "options": {
+      "a": "Giải phóng dân tộc",
+      "b": "Đấu tranh giai cấp (Thổ địa cách mạng)",
+      "c": "Chống phong kiến",
+      "d": "Đòi quyền dân sinh, dân chủ"
+    },
+    "answer": "a",
+    "explanation": "Cương lĩnh 2/1930 đặt nhiệm vụ giải phóng dân tộc lên hàng đầu."
+  },
+  {
+    "id": 26,
+    "question": "Luận cương 10/1930 đặt nhiệm vụ nào lên hàng đầu?",
+    "options": {
+      "a": "Giải phóng dân tộc",
+      "b": "Đấu tranh giai cấp (Thổ địa cách mạng)",
+      "c": "Chống đế quốc",
+      "d": "Đòi quyền dân sinh, dân chủ"
+    },
+    "answer": "b",
+    "explanation": "Luận cương 10/1930 đặt nhiệm vụ đấu tranh giai cấp (Thổ địa cách mạng) lên hàng đầu."
+  },
+  {
+    "id": 27,
+    "question": "Về lực lượng cách mạng, Cương lĩnh 2/1930 chủ trương tập hợp lực lượng nào?",
+    "options": {
+      "a": "Chỉ công nhân và nông dân",
+      "b": "Toàn thể dân tộc Việt Nam",
+      "c": "Trí thức và tư sản dân tộc",
+      "d": "Chỉ những người vô sản"
+    },
+    "answer": "b",
+    "explanation": "Về lực lượng cách mạng, Cương lĩnh 2/1930 chủ trương tập hợp toàn thể dân tộc Việt Nam."
+  },
+  {
+    "id": 28,
+    "question": "Hạn chế lớn nhất về lực lượng cách mạng trong Luận cương 10/1930 là gì?",
+    "options": {
+      "a": "Phụ thuộc quá nhiều vào tư sản",
+      "b": "Chỉ tập hợp tầng lớp trí thức",
+      "c": "Chưa chủ trương tập hợp lực lượng toàn dân tộc",
+      "d": "Loại bỏ giai cấp công nhân"
+    },
+    "answer": "c",
+    "explanation": "Hạn chế lớn nhất về lực lượng cách mạng trong Luận cương 10/1930 là chưa chủ trương tập hợp lực lượng toàn dân tộc."
+  },
+  {
+    "id": 97,
+    "question": "Văn kiện nào xác định mâu thuẫn chủ yếu là \"Dân tộc Việt Nam với đế quốc xâm lược\"?",
+    "options": {
+      "a": "Luận cương 10/1930",
+      "b": "Cương lĩnh 2/1930",
+      "c": "Cả hai văn kiện",
+      "d": "Không văn kiện nào"
+    },
+    "answer": "b",
+    "explanation": "Cương lĩnh 2/1930 xác định mâu thuẫn chủ yếu là \"Dân tộc Việt Nam với đế quốc xâm lược\"."
+  },
+  {
+    "id": 98,
+    "question": "Nhiệm vụ \"Giải phóng dân tộc\" được đặt lên hàng đầu trong văn kiện nào?",
+    "options": {
+      "a": "Luận cương 10/1930",
+      "b": "Cương lĩnh 2/1930",
+      "c": "Cả hai văn kiện",
+      "d": "Cương lĩnh 1991"
+    },
+    "answer": "b",
+    "explanation": "Nhiệm vụ \"Giải phóng dân tộc\" được đặt lên hàng đầu trong Cương lĩnh 2/1930."
+  },
+  {
+    "id": 99,
+    "question": "\"Thổ địa cách mạng\" (đấu tranh giai cấp) được đặt lên hàng đầu trong văn kiện nào?",
+    "options": {
+      "a": "Cương lĩnh 2/1930",
+      "b": "Luận cương 10/1930",
+      "c": "Cương lĩnh 1991",
+      "d": "Cương lĩnh 2011"
+    },
+    "answer": "b",
+    "explanation": "\"Thổ địa cách mạng\" (đấu tranh giai cấp) được đặt lên hàng đầu trong Luận cương 10/1930."
+  },
+  {
+    "id": 100,
+    "question": "Văn kiện nào chủ trương tập hợp \"toàn thể dân tộc Việt Nam\"?",
+    "options": {
+      "a": "Luận cương 10/1930",
+      "b": "Cương lĩnh 2/1930",
+      "c": "Cả hai văn kiện",
+      "d": "Không văn kiện nào năm 1930"
+    },
+    "answer": "b",
+    "explanation": "Cương lĩnh 2/1930 chủ trương tập hợp \"toàn thể dân tộc Việt Nam\"."
+  }
+]

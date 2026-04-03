@@ -1,0 +1,110 @@
+[
+  {
+    "id": 17,
+    "question": "Cả Cương lĩnh 2/1930 và Luận cương 10/1930 đều xác định phương hướng chiến lược của cách mạng Việt Nam là gì?",
+    "options": {
+      "a": "Giải phóng giai cấp gắn liền với chủ nghĩa xã hội",
+      "b": "Độc lập dân tộc gắn liền với chủ nghĩa xã hội",
+      "c": "Hoàn thành cách mạng tư sản dân quyền",
+      "d": "Xây dựng nền kinh tế độc lập tự chủ"
+    },
+    "answer": "b",
+    "explanation": "Cả Cương lĩnh 2/1930 và Luận cương 10/1930 đều xác định phương hướng chiến lược của cách mạng Việt Nam là độc lập dân tộc gắn liền với chủ nghĩa xã hội."
+  },
+  {
+    "id": 18,
+    "question": "Về nhiệm vụ cách mạng, cả hai văn kiện đều xác định phải chống lại kẻ thù nào?",
+    "options": {
+      "a": "Chống đế quốc, chống phong kiến",
+      "b": "Chống tư sản, chống địa chủ",
+      "c": "Chống phát xít, chống tay sai",
+      "d": "Chống thực dân kiểu mới"
+    },
+    "answer": "a",
+    "explanation": "Về nhiệm vụ cách mạng, cả hai văn kiện đều xác định phải chống đế quốc, chống phong kiến."
+  },
+  {
+    "id": 19,
+    "question": "Lực lượng nào được cả hai văn kiện xác định là \"động lực chính\" của cách mạng?",
+    "options": {
+      "a": "Giai cấp công nhân",
+      "b": "Công - nông - trí thức",
+      "c": "Toàn thể dân tộc",
+      "d": "Công - nông"
+    },
+    "answer": "d",
+    "explanation": "Lực lượng được cả hai văn kiện xác định là \"động lực chính\" của cách mạng là Công - nông."
+  },
+  {
+    "id": 20,
+    "question": "Cả hai văn kiện đều khẳng định phương pháp cách mạng là gì?",
+    "options": {
+      "a": "Đấu tranh nghị trường",
+      "b": "Bạo lực cách mạng",
+      "c": "Đấu tranh chính trị hòa bình",
+      "d": "Đấu tranh ngoại giao"
+    },
+    "answer": "b",
+    "explanation": "Cả hai văn kiện đều khẳng định phương pháp cách mạng là bạo lực cách mạng."
+  },
+  {
+    "id": 21,
+    "question": "Về quan hệ cách mạng, cả hai văn kiện xác định cách mạng Việt Nam có mối quan hệ thế nào với thế giới?",
+    "options": {
+      "a": "Độc lập hoàn toàn với cách mạng thế giới",
+      "b": "Là một bộ phận của cách mạng thế giới",
+      "c": "Chỉ liên minh với các nước Đông Dương",
+      "d": "Là trung tâm của phong trào vô sản"
+    },
+    "answer": "b",
+    "explanation": "Về quan hệ cách mạng, cả hai văn kiện xác định cách mạng Việt Nam là một bộ phận của cách mạng thế giới."
+  },
+  {
+    "id": 22,
+    "question": "Cả hai văn kiện đều khẳng định lực lượng lãnh đạo cách mạng là ai?",
+    "options": {
+      "a": "Giai cấp công nhân",
+      "b": "Giai cấp nông dân",
+      "c": "Đảng Cộng sản",
+      "d": "Mặt trận Dân tộc thống nhất"
+    },
+    "answer": "c",
+    "explanation": "Cả hai văn kiện đều khẳng định lực lượng lãnh đạo cách mạng là Đảng Cộng sản."
+  },
+  {
+    "id": 94,
+    "question": "Phương hướng chiến lược \"Độc lập dân tộc gắn liền với CNXH\" được xác định trong văn kiện nào?",
+    "options": {
+      "a": "Chỉ có trong Cương lĩnh 2/1930",
+      "b": "Chỉ có trong Luận cương 10/1930",
+      "c": "Cả Cương lĩnh 2/1930 và Luận cương 10/1930",
+      "d": "Không có trong văn kiện nào năm 1930"
+    },
+    "answer": "c",
+    "explanation": "Phương hướng chiến lược \"Độc lập dân tộc gắn liền với CNXH\" được xác định trong cả Cương lĩnh 2/1930 và Luận cương 10/1930."
+  },
+  {
+    "id": 95,
+    "question": "\"Bạo lực cách mạng\" là phương pháp được xác định trong văn kiện nào năm 1930?",
+    "options": {
+      "a": "Chỉ Cương lĩnh 2/1930",
+      "b": "Chỉ Luận cương 10/1930",
+      "c": "Cả hai văn kiện",
+      "d": "Không văn kiện nào"
+    },
+    "answer": "c",
+    "explanation": "\"Bạo lực cách mạng\" là phương pháp được xác định trong cả Cương lĩnh 2/1930 và Luận cương 10/1930."
+  },
+  {
+    "id": 96,
+    "question": "Công - nông được xác định là \"động lực chính\" của cách mạng trong văn kiện nào?",
+    "options": {
+      "a": "Chỉ Cương lĩnh 2/1930",
+      "b": "Chỉ Luận cương 10/1930",
+      "c": "Cả Cương lĩnh và Luận cương",
+      "d": "Cương lĩnh 1991"
+    },
+    "answer": "c",
+    "explanation": "Công - nông được xác định là \"động lực chính\" của cách mạng trong cả Cương lĩnh 2/1930 và Luận cương 10/1930."
+  }
+]

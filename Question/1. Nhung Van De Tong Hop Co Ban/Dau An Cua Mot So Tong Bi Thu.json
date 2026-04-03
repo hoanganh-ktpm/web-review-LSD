@@ -1,0 +1,110 @@
+[
+  {
+    "id": 9,
+    "question": "Ai là người chủ trì Hội nghị Trung ương lần thứ nhất (10/1930)?",
+    "options": {
+      "a": "Nguyễn Ái Quốc",
+      "b": "Trường Chinh",
+      "c": "Trần Phú",
+      "d": "Lê Duẩn"
+    },
+    "answer": "c",
+    "explanation": "Trần Phú là người chủ trì Hội nghị Trung ương lần thứ nhất (10/1930)."
+  },
+  {
+    "id": 10,
+    "question": "TBT Trường Chinh là tác giả của các tác phẩm, văn kiện nào sau đây?",
+    "options": {
+      "a": "Đường Kách mệnh và Nhật ký trong tù",
+      "b": "Kháng chiến nhất định thắng lợi và Đề cương văn hóa Việt Nam",
+      "c": "Đề cương đường lối cách mạng Việt Nam ở miền Nam",
+      "d": "Lời kêu gọi toàn quốc kháng chiến"
+    },
+    "answer": "b",
+    "explanation": "TBT Trường Chinh là tác giả của \"Kháng chiến nhất định thắng lợi\" và \"Đề cương văn hóa Việt Nam\"."
+  },
+  {
+    "id": 11,
+    "question": "Bản \"Đề cương đường lối cách mạng Việt Nam ở miền Nam\" là do vị Tổng Bí thư nào soạn thảo?",
+    "options": {
+      "a": "TBT Lê Duẩn",
+      "b": "TBT Trường Chinh",
+      "c": "TBT Nguyễn Văn Linh",
+      "d": "TBT Trần Phú"
+    },
+    "answer": "a",
+    "explanation": "Bản \"Đề cương đường lối cách mạng Việt Nam ở miền Nam\" là do TBT Lê Duẩn soạn thảo."
+  },
+  {
+    "id": 12,
+    "question": "Câu nói \"Danh dự mới là điều thiêng liêng, cao quý nhất\" là của vị Tổng Bí thư nào?",
+    "options": {
+      "a": "TBT Đỗ Mười",
+      "b": "TBT Nông Đức Mạnh",
+      "c": "TBT Nguyễn Phú Trọng",
+      "d": "TBT Lê Khả Phiêu"
+    },
+    "answer": "c",
+    "explanation": "Câu nói \"Danh dự mới là điều thiêng liêng, cao quý nhất\" là của TBT Nguyễn Phú Trọng."
+  },
+  {
+    "id": 84,
+    "question": "Trần Phú chủ trì hội nghị nào của Đảng?",
+    "options": {
+      "a": "Hội nghị thành lập Đảng (2/1930)",
+      "b": "Hội nghị Trung ương lần thứ nhất (10/1930)",
+      "c": "Đại hội II (2/1951)",
+      "d": "Đại hội III (1960)"
+    },
+    "answer": "b",
+    "explanation": "Trần Phú chủ trì Hội nghị Trung ương lần thứ nhất (10/1930)."
+  },
+  {
+    "id": 85,
+    "question": "Tác phẩm \"Kháng chiến nhất định thắng lợi\" là của ai?",
+    "options": {
+      "a": "Hồ Chí Minh",
+      "b": "Trường Chinh",
+      "c": "Lê Duẩn",
+      "d": "Võ Nguyên Giáp"
+    },
+    "answer": "b",
+    "explanation": "Tác phẩm \"Kháng chiến nhất định thắng lợi\" là của TBT Trường Chinh."
+  },
+  {
+    "id": 86,
+    "question": "\"Đề cương văn hóa Việt Nam\" được soạn thảo bởi ai?",
+    "options": {
+      "a": "Hồ Chí Minh",
+      "b": "Phạm Văn Đồng",
+      "c": "Trường Chinh",
+      "d": "Lê Duẩn"
+    },
+    "answer": "c",
+    "explanation": "\"Đề cương văn hóa Việt Nam\" được soạn thảo bởi TBT Trường Chinh."
+  },
+  {
+    "id": 87,
+    "question": "TBT Lê Duẩn là tác giả của văn kiện nào?",
+    "options": {
+      "a": "Đề cương văn hóa Việt Nam",
+      "b": "Kháng chiến nhất định thắng lợi",
+      "c": "Đề cương đường lối cách mạng Việt Nam ở miền Nam",
+      "d": "Đường Kách mệnh"
+    },
+    "answer": "c",
+    "explanation": "TBT Lê Duẩn là tác giả của \"Đề cương đường lối cách mạng Việt Nam ở miền Nam\"."
+  },
+  {
+    "id": 88,
+    "question": "\"Danh dự mới là điều thiêng liêng, cao quý nhất\" - câu nói nổi tiếng này thuộc về ai?",
+    "options": {
+      "a": "Hồ Chí Minh",
+      "b": "Võ Nguyên Giáp",
+      "c": "Nguyễn Phú Trọng",
+      "d": "Trường Chinh"
+    },
+    "answer": "c",
+    "explanation": "Câu nói này thuộc về TBT Nguyễn Phú Trọng."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 46,
+    "question": "Đại hội IV chủ trương ưu tiên phát triển lĩnh vực nào một cách hợp lý?",
+    "options": {
+      "a": "Nông nghiệp",
+      "b": "Công nghiệp nhẹ",
+      "c": "Công nghiệp nặng",
+      "d": "Dịch vụ"
+    },
+    "answer": "c",
+    "explanation": "Đại hội IV chủ trương ưu tiên phát triển công nghiệp nặng một cách hợp lý."
+  },
+  {
+    "id": 47,
+    "question": "Đại hội V có sự thay đổi quan trọng khi lấy lĩnh vực nào làm mặt trận hàng đầu?",
+    "options": {
+      "a": "Công nghiệp nặng",
+      "b": "Công nghiệp nhẹ",
+      "c": "Nông nghiệp",
+      "d": "Công nghệ thông tin"
+    },
+    "answer": "c",
+    "explanation": "Đại hội V có sự thay đổi quan trọng khi lấy nông nghiệp làm mặt trận hàng đầu."
+  },
+  {
+    "id": 48,
+    "question": "Khái niệm \"Công nghiệp hóa, Hiện đại hóa\" (CNH, HĐH) lần đầu tiên được nêu lên tại hội nghị nào?",
+    "options": {
+      "a": "Đại hội VI",
+      "b": "Đại hội VII",
+      "c": "Hội nghị TW 7 Khóa VII",
+      "d": "Đại hội VIII"
+    },
+    "answer": "c",
+    "explanation": "Khái niệm \"Công nghiệp hóa, Hiện đại hóa\" (CNH, HĐH) lần đầu tiên được nêu lên tại Hội nghị TW 7 Khóa VII."
+  },
+  {
+    "id": 49,
+    "question": "Đại hội nào chính thức đề ra chủ trương \"Đẩy mạnh CNH, HĐH\"?",
+    "options": {
+      "a": "Đại hội VII",
+      "b": "Đại hội VIII",
+      "c": "Đại hội IX",
+      "d": "Đại hội X"
+    },
+    "answer": "b",
+    "explanation": "Đại hội VIII chính thức đề ra chủ trương \"Đẩy mạnh CNH, HĐH\"."
+  },
+  {
+    "id": 50,
+    "question": "Đại hội X chủ trương đẩy mạnh CNH, HĐH gắn với sự phát triển của yếu tố nào?",
+    "options": {
+      "a": "Kinh tế thị trường",
+      "b": "Kinh tế tri thức",
+      "c": "Kinh tế số",
+      "d": "Kinh tế tuần hoàn"
+    },
+    "answer": "b",
+    "explanation": "Đại hội X chủ trương đẩy mạnh CNH, HĐH gắn với sự phát triển của kinh tế tri thức."
+  },
+  {
+    "id": 51,
+    "question": "Đại hội XI chủ trương đẩy mạnh CNH, HĐH gắn với kinh tế tri thức và yếu tố nào nữa?",
+    "options": {
+      "a": "Phát triển nhanh và bền vững",
+      "b": "Hội nhập quốc tế sâu rộng",
+      "c": "Bảo vệ môi trường",
+      "d": "Giữ gìn bản sắc văn hóa"
+    },
+    "answer": "a",
+    "explanation": "Đại hội XI chủ trương đẩy mạnh CNH, HĐH gắn với kinh tế tri thức và phát triển nhanh và bền vững."
+  },
+  {
+    "id": 113,
+    "question": "Đại hội nào chủ trương ưu tiên phát triển công nghiệp nặng?",
+    "options": {
+      "a": "Đại hội III",
+      "b": "Đại hội IV",
+      "c": "Đại hội V",
+      "d": "Đại hội VI"
+    },
+    "answer": "b",
+    "explanation": "Đại hội IV chủ trương ưu tiên phát triển công nghiệp nặng một cách hợp lý."
+  },
+  {
+    "id": 114,
+    "question": "Đại hội nào lấy nông nghiệp làm mặt trận hàng đầu?",
+    "options": {
+      "a": "Đại hội IV",
+      "b": "Đại hội V",
+      "c": "Đại hội VI",
+      "d": "Đại hội VII"
+    },
+    "answer": "b",
+    "explanation": "Đại hội V lấy nông nghiệp làm mặt trận hàng đầu."
+  },
+  {
+    "id": 115,
+    "question": "\"Kinh tế tri thức\" được gắn với CNH, HĐH từ Đại hội nào?",
+    "options": {
+      "a": "Đại hội VIII",
+      "b": "Đại hội IX",
+      "c": "Đại hội X",
+      "d": "Đại hội XI"
+    },
+    "answer": "c",
+    "explanation": "\"Kinh tế tri thức\" được gắn với CNH, HĐH từ Đại hội X."
+  },
+  {
+    "id": 116,
+    "question": "Đại hội IV được tổ chức vào năm nào?",
+    "options": {
+      "a": "1960",
+      "b": "1976",
+      "c": "1982",
+      "d": "1986"
+    },
+    "answer": "b",
+    "explanation": "Đại hội IV được tổ chức vào tháng 12/1976."
+  }
+]
